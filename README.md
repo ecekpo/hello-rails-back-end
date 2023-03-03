@@ -68,8 +68,8 @@
 
 To get a local copy up and running, follow these steps.
 ````
-git clone https://github.com/AbigiyaTY/hello-react-front-end.git
-cd one-app
+git clone https://https://github.com/ecekpo/hello-rails-back-end.git
+cd hello-rails-back-end
 ls
 ````
 
@@ -105,7 +105,7 @@ then open any browser and enter this address `localhost:3000`
 
 ## Author
 
-👤 **Abigiya Tadesse**
+👤 **Emem Ekpo**
 
 * GitHub: [@githubhandle](https://github.com/ecekpo)
 * Twitter: [@twitterhandle](https://ememcookey/)
