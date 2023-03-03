@@ -55,6 +55,12 @@
 
 ### Key Features <a name="key-features"></a>
 
+- Providing greeting messages for: [Hello React Front End App](#).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo [hello_react_front-end link ](https://github.com/ecekpo/hello_react-frontend)  <a name="live-demo"></a
+
 #### Learning objectives
 - Implement a connection between a Ruby on Rails back-end and React front-end.
 - Understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
